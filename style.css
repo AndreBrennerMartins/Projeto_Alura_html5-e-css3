@@ -8,7 +8,11 @@ body {
 }
 
 h1{
-    text-align: center
+    margin-left: 20px;
+}
+
+.titulo-centr{
+    text-align: center;
 }
 
 
@@ -17,7 +21,7 @@ p {
 }
 
 #missao{
-    font-size: 20px
+    font-size: 20px;
 }
 
 em strong {
@@ -26,4 +30,24 @@ em strong {
 
 #banner{
     width: 100%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%;
 }
